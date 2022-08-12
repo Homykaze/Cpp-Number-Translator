@@ -1,0 +1,2 @@
+# Number Translator
+This program is based on dividing an integer into triple digits, which are then analyzed with the same technique as triple digits in English will always sound the same except a word, representing what these digits mean, will be unique (123: one hundred twenty three + **thousand** or **million**, etc). Because integers in cpp are limited, this program does not interpret numbers greater than 2 147 483 647 or less than -2 147 483 647.
